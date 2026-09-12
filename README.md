@@ -1,65 +1,34 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Agrim%20Agrawal&fontSize=60&fontColor=000000&animation=twinkling" width="100%" />
+# 👋 Hi, I'm Agrim Agrawal
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Predictive+Analytics+%7C+ETL+%7C+Deep+Learning;Extracting+Value+from+Complex+Data+Ecosystems" alt="Typing SVG" />
-  </a>
+### Data Scientist | Machine Learning Engineer | Generative AI & Agentic AI Developer
 
-  <p align="center">
-    <a href="mailto:infinityagrim@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-infinityagrim%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Machine+Learning+%7C+Generative+AI+%7C+Agentic+AI;RAG+%7C+LLMs+%7C+AI+Agents+%7C+FastAPI;Turning+Data+into+Intelligent+Products+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:infinityagrim@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Agrimagrawal17">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 🧰 // Complete Data Science & ML Tech Stack Map
+## 🚀 About Me
 
-```yaml
-// data_science_stack.yaml - Comprehensive Skill Ecosystem
+I'm a **Data Scientist & Machine Learning Engineer** focused on building practical, intelligent and production-oriented applications.
 
-DATA_INGESTION_&_STORAGE:
-  Relational_Databases : [ MySQL, PostgreSQL, SQL Server, SQLite ]
-  NoSQL_&_BigData      : [ MongoDB, Apache Spark, PySpark, Hadoop ]
-  Data_Formats         : [ Parquet, CSV, JSON, HDF5, Feather ]
+I work across the complete AI development lifecycle — from **data analysis and machine learning** to **Generative AI, RAG systems, AI Agents, APIs and deployment**.
 
-DATA_ANALYSIS_&_WRANGLING:
-  Core_Languages       : [ Python, SQL, R ]
-  Manipulation_Libs    : [ Pandas, NumPy, Polars, SciPy ]
-  Exploratory_EDA      : [ Data Cleaning, Outlier Detection, Feature Scaling, Missing Value Imputation ]
-
-STATISTICS_&_MATHEMATICS:
-  Foundations          : [ Linear Algebra, Multivariable Calculus, Descriptive & Inferential Statistics ]
-  Hypothesis_Testing   : [ A/B Testing, p-value, Chi-Square, ANOVA, Z-Test, T-Test ]
-  Probability          : [ Bayes Theorem, Probability Distributions, Expected Value ]
-
-MACHINE_LEARNING_ENGINE:
-  Supervised_Learning  : [ Linear/Logistic Regression, Decision Trees, Random Forest, XGBoost, LightGBM, SVM ]
-  Unsupervised_ML      : [ K-Means Clustering, DBSCAN, Hierarchical Clustering, PCA, t-SNE ]
-  Model_Evaluation     : [ ROC-AUC, Confusion Matrix, Precision/Recall, RMSE, MAE, R-Squared ]
-
-DEEP_LEARNING_&_AI:
-  Frameworks           : [ TensorFlow, Keras, PyTorch ]
-  Architectures        : [ ANN, CNN (Computer Vision), RNN/LSTM, Transformers ]
-  Generative_AI_&_LLMs : [ RAG Architecture, LangChain, Hugging Face, Prompt Engineering ]
-
-FEATURE_ENGINEERING_&_PIPELINES:
-  Techniques           : [ One-Hot Encoding, Target Encoding, SMOTE, Standardization, Normalization ]
-  Pipeline_Automation  : [ Scikit-Learn Pipelines, ColumnTransformer, Feature Stores ]
-
-VISUALIZATION_&_BUSINESS_INTELLIGENCE:
-  BI_Tools             : [ Power BI, Tableau, Excel (Power Query, DAX, Pivot Tables) ]
-  Python_Viz           : [ Matplotlib, Seaborn, Plotly, Bokeh ]
-
-MLOPS_&_DEPLOYMENT:
-  Model_Serving        : [ Flask, FastAPI, Streamlit ]
-  Containerization     : [ Docker, Kubernetes ]
-  Version_Control      : [ Git, GitHub, DVC (Data Version Control) ]
-  Tracking_&_Cloud     : [ MLflow, AWS (S3, EC2, SageMaker), GCP ]
+```text
+Data → Analysis → Machine Learning → AI → APIs → Production
