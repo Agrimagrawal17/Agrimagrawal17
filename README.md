@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Agrimagrawal17&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Agrimagrawal17&style=for-the-badge&color=00e5ff"/>
 
 </div>
 
